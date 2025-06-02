@@ -7,11 +7,3 @@ A simple real-time chat app built with **Node.js**, **Express**, and **Socket.IO
 - Simple and clean UI
 - Node.js + Express backend
 
- 📁 Project Structure
-chat-app/
-├── public/
-│ ├── index.html
-│ └── script.js
-├── server.js
-├── package.json
-└── README.md
